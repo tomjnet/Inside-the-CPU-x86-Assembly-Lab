@@ -1,6 +1,6 @@
 # Inside the CPU: x86 Assembly Lab
 
-Runnable code from the [Inside the CPU: x86 Assembly Lab](https://www.youtube.com/@TomJNet) video series, in English and Spanish.
+Runnable code from the [Inside the CPU: x86 Assembly Lab](https://www.youtube.com/@TomJNet) video series.
 One folder per episode, one NASM source per idea shown on the slides. Almost every sample is a 512 byte boot sector: QEMU loads it at `0x7c00` and runs it with no operating system underneath, which is the whole point of the series.
 
 | Folder | Video |
