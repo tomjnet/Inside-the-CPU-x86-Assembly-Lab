@@ -1,0 +1,4 @@
+start:            head 0 tail 0
+is_empty: yes
+after 8 enqueues: head 0 tail 0
+is_full: yes

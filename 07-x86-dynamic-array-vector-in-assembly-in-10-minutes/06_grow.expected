@@ -1,0 +1,2 @@
+full:       data 0x00008000 size 2 cap 2: 10 20
+after grow: data 0x00008008 size 3 cap 4: 10 20 30

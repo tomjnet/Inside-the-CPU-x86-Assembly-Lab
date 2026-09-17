@@ -1,0 +1,3 @@
+before: 10 20 30 40  count 4
+dequeue returned: 10
+after:  20 30 40  count 3

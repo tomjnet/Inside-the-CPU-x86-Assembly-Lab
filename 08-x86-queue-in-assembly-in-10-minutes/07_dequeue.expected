@@ -1,0 +1,5 @@
+front:   10
+dequeue: 10
+dequeue: 20
+front:   30
+head 2 count 1

@@ -1,0 +1,5 @@
+enqueue 10: tail 1 count 1
+enqueue 20: tail 2 count 2
+enqueue 70: tail 7 count 7
+enqueue 80: tail 0 count 8
+enqueue 90: refused, the queue is full
