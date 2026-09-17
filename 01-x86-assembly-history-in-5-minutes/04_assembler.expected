@@ -1,0 +1,6 @@
+B80A00            mov ax,0xa
+83C005            add ax,byte +0x5
+83F80F            cmp ax,byte +0xf
+7402              jz 0xd
+EBFE              jmp short 0xb
+F4                hlt

@@ -1,0 +1,4 @@
+al  = [b]: 0x00000011
+ax  = [w]: 0x00002222
+eax = [d]: 0x33333333
+after the writes, b w d: 123

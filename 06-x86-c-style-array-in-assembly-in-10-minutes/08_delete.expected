@@ -1,0 +1,3 @@
+before:          10 20 30 40 50  len 5
+delete index 0:  20 30 40 50  len 4
+delete the last: 20 30 40  len 3

@@ -1,0 +1,6 @@
+start:    sp = 0x00007c00
+push eax: sp = 0x00007bfc
+push ebx: sp = 0x00007bf8
+pop ebx:  sp = 0x00007bfc
+pop eax:  sp = 0x00007c00
+eax ebx after the pops: 10 20

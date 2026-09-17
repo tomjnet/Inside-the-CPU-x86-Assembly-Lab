@@ -1,0 +1,6 @@
+sub eax, 58:  eax = 42
+inc eax:      eax = 43
+dec eax:      eax = 42
+add ecx, ecx: ecx = 84
+xor edx, edx: edx = 0
+imul eax, 3:  eax = 126

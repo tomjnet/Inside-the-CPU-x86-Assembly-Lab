@@ -1,0 +1,2 @@
+eax ebx after cmp: 5 7
+ZF=0 SF=1 CF=1

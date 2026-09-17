@@ -1,0 +1,2 @@
+jl: taken, -1 is less than 1 as signed
+jb: not taken, 0xffffffff is above 1 as unsigned
